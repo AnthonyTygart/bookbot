@@ -137,6 +137,9 @@ venv.bak/
 # Rope project settings
 .ropeproject
 
+#bookbot
+books/
+
 # mkdocs documentation
 /site
 
